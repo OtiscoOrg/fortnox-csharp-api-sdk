@@ -17,8 +17,13 @@ public enum Source
 
     [EnumMember(Value = "file")]
     File,
+    
     [EnumMember(Value = "finance")]
     Finance,
+    
     [EnumMember(Value = "autogiro")]
-    Autogiro
+    Autogiro,
+    
+    [EnumMember(Value = "integration")]
+    Integration
 }
