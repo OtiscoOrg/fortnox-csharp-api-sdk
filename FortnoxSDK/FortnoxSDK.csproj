@@ -4,12 +4,12 @@
     <TargetFramework>netstandard2.0</TargetFramework>
     <GenerateDocumentationFile>true</GenerateDocumentationFile>
     <LangVersion>latest</LangVersion>
-    <PackageId>Fortnox.NET.SDK</PackageId>
+    <PackageId>Fortnox.NET.SDK-OCC</PackageId>
     <Version>4.3.18</Version>
     <Authors>Softwerk AB</Authors>
     <Company>Softwerk AB</Company>
     <Description>SDK package for Fortnox API. This package is developed and maintained by Softwerk AB. For more information please visit the repository on Github.</Description>
-    <RepositoryUrl>https://github.com/FortnoxAB/csharp-api-sdk</RepositoryUrl>
+    <RepositoryUrl>https://github.com/OtiscoOrg/fortnox-csharp-api-sdk</RepositoryUrl>
     <PackageIcon>fortnoxLogo.png</PackageIcon>
     <PackageTags>Fortnox;SDK;API;Client;C#;.NET;REST;Softwerk</PackageTags>
     <Copyright>Copyright (c) 2024 Softwerk AB</Copyright>
